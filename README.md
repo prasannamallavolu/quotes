@@ -1,2 +1,2 @@
 # quotes
-Example of  portifolio site
+Example of portifolio site
